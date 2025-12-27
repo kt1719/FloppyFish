@@ -5,9 +5,9 @@ FloppyFish is a small, Flappy-Bird-inspired game I built while flying to America
 The game focuses on simple, responsive controls, quick restarts, and that classic “one more try” gameplay loop. It was designed as a lightweight project to explore game feel, timing, and moment-to-moment challenge.
 
 ## Gameplay
-- Tap / click to flap and keep the fish afloat
+- Press space to flap and keep the fish afloat
 - Avoid obstacles and survive as long as you can
-- Simple mechanics with increasing difficulty
+- Simple mechanics with moving pipes
 
 ## Assets & Credits
 

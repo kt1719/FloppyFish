@@ -9,6 +9,12 @@ The game focuses on simple, responsive controls, quick restarts, and that classi
 - Avoid obstacles and survive as long as you can
 - Simple mechanics with moving pipes
 
+## Screenshots
+
+![FloppyFish Gameplay](Screenshots/Screenshot%202025-12-28%20at%2011.21.11.png)
+
+![FloppyFish Gameplay](Screenshots/Screenshot%202025-12-28%20at%2011.21.52.png)
+
 ## Assets & Credits
 
 ### Visuals
